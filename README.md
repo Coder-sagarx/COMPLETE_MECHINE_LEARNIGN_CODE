@@ -17,12 +17,8 @@ The model was trained on the [describe dataset, e.g., "Iris dataset," "custom da
 To get started with this repository, you need to have Python 3.x installed. Follow the steps below to set up the environment and run the code.
 
 **INSTALLATION**
-**1. Clone the Repository**
 
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
-
-**2. Install Dependencies**
+**1. Install Dependencies**
 
 You can install the required Python libraries by using pip and the provided requirements.txt file.
 
